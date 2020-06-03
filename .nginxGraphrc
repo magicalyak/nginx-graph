@@ -10,7 +10,7 @@
 		// Enables cloning from git repo, if false, the root dir should point to an existing dir
 		"enable": true,
 		// Git Repo Url
-		"url": "https://test.org/test/test.git",
+		"url": "https://github.com/magicalyak/nginx-graph.git",
 		// Branch to clone
 		"branch": "master"
 	},
